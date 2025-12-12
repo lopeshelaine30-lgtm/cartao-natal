@@ -5,7 +5,7 @@ O projeto inclui páginas em HTML, imagens, vídeos, música e arquivos adiciona
 
 ## 🌐 Acesse o site
 O site está disponível em:  
-https://lopeshelaine30-lgtm.github.io/niver-geise/
+
 
 ## 📂 Estrutura do projeto
 - **index.html** — página inicial do site  
