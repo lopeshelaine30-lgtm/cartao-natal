@@ -26,5 +26,3 @@ https://lopeshelaine30-lgtm.github.io/niver-geise/
 Criar uma página comemorativa simples e visualmente agradável, acessível a partir de qualquer dispositivo.
 
 ---
-
-Caso precise editar, basta clicar no botão de lápis no arquivo `README.md` dentro do repositório.
